@@ -2,7 +2,15 @@
 
 
 import java.util.LinkedList;
-public class Exercise8{
+public class Exercise8  {
 public static void main(String args[])
 {
-LinkedList<String>=new LinkedList
+LinkedList<String> List=new LinkedList<String>();
+List.add("Rd");
+List.add("Green");
+List.add("Black");
+System.out.println("original linked List"+List);
+List.offerLast("pink");
+System.out.println("Final Linked List:"+List);
+}
+}
