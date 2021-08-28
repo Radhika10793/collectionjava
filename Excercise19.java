@@ -1,0 +1,1 @@
+//19 write a java program to remove and return the first element of a linked list

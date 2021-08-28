@@ -1,0 +1,1 @@
+//20write a java program to retrive but does not remove the first element of a linked list
